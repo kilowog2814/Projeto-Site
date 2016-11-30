@@ -1,0 +1,19 @@
+.Texto {
+color: blue;
+font-size: 18 pt;
+font-weight: bold;
+}
+.Cabe {
+	font: georgian;
+	font-size: 13 pt;
+	color: crimson;
+}
+
+.Table {
+	font-family: calibri;
+	font-size: 25px;
+	border-color: darkgray;
+	border-style: solid;
+	background-color: red;
+}
+	
